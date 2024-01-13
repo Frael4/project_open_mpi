@@ -27,3 +27,4 @@ An1 An2 ... Ann bn
 Please note that the algorithm computes correct values only for symmetric and positive-definite matrices A.
 In the solution folder you can also find a utility to generate such matrices.
 "# project_open_mpi" 
+"# project_open_mpi" 
